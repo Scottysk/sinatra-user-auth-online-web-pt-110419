@@ -10,6 +10,8 @@ gem 'sqlite3', '~>1.3.6'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+gem 'bundler'
+gem 'rails'
 
 group :test do
   gem 'launchy'
